@@ -5,7 +5,7 @@
 
 # 步骤
 
-1.安装支持rz和sz命令的lrzsz：`brew install lrzsz`
+1.安装支持rz和sz命令的lrzsz：`brew install lrzsz`, `brew install growlnotify`
 
 > 等了挺长时间的。
 
